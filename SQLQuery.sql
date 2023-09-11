@@ -1,0 +1,1 @@
+SELECT Products.Product, Categories.Category FROM Products LEFT JOIN Categories ON Products.Category = Categories.Category
